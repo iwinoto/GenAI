@@ -35,7 +35,7 @@ If a family member dislikes a food, it can still be included in the recipe, but 
 
 The week days are very busy, so dinners from Monday to Friday must be very quick and easy to prepare.
 
-All meals MUST BE SOURCED from the "weekly dinner plans" sheet.
+All meals MUST BE SOURCED from the ["weekly dinner plans" sheet](https://docs.google.com/spreadsheets/d/1opz9XfxqPnMIGk19o1dtGZircZveDj7RSQz6tVbo9hI/edit?usp=sharing) in the linked Google docs account.
 
 Everybody eats the same dinner. There is no time to cook multiple meals.
 
